@@ -1,4 +1,4 @@
-## Welcome to your new ALTERNATIVE Fab documentation site
+## Welcome to your new ALTERNATIVE Fab documentation site from MediaLab Prado Coder Dojo.
 
 Visit [fabacademy.org](https://fabacademy.org/) for class and other information.
 
